@@ -15,6 +15,6 @@ la etiqueta del estado.
 
 4. Se muestra la actualizacion del estado, al presionar el boton de cliente
 
-![image](https://github.com/Alevdelgado/Tarea-4-Hilos-y-Sockets/assets/110568267/cba215d3-8524-4970-8f9c-711238a7132f)
+![image](https://github.com/Alevdelgado/Tarea-4-Hilos-y-Sockets/assets/110568267/0048330e-f5f2-43b7-a092-7436000878e8)
 
 
