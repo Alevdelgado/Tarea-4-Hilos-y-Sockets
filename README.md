@@ -9,9 +9,9 @@ la etiqueta del estado.
 ![image](https://github.com/Alevdelgado/Tarea-4-Hilos-y-Sockets/assets/110568267/2b1bc0e6-1dd1-4672-9b40-63a1fed1c112)
 2. Se ejecuta el cliente
 ![image](https://github.com/Alevdelgado/Tarea-4-Hilos-y-Sockets/assets/110568267/2ca2155e-0734-409d-bf68-a07d2b96e3cc)
-3. Estado incial 
+3. Estado inicial de la ventana 
 
-![image](https://github.com/Alevdelgado/Tarea-4-Hilos-y-Sockets/assets/110568267/d4cf119a-848a-4339-8764-50c95ead722a)
+![image](https://github.com/Alevdelgado/Tarea-4-Hilos-y-Sockets/assets/110568267/46a5dab8-3903-49cf-8758-bf49860cef64)
 
 4. Se muestra la actualizacion del estado, al presionar el boton de cliente
 
